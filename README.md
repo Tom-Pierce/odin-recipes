@@ -1,1 +1,1 @@
-This is a website with recipes that I have created to practice and show my HTML skillsw
+This is a website with recipes that I have created to practice and show my HTML skills
